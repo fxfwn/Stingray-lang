@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Status-early%20development-yellow?style=flat)
-![Static Badge](https://img.shields.io/badge/License-GNU%20GPL_3.0-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/License-Apache_License_2.0-blue?style=flat)
 ![Static Badge](https://img.shields.io/badge/Documentation_License-CC%20BY--SA_4.0-blue?style=flat)
 
 ___
