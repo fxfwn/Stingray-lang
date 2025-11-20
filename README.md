@@ -12,6 +12,8 @@ As of **November 20th 2025**, `Stingray` is no longer in development and **offic
 - stalled progress
 - focus on development of [LengkuasSFL](https://github.com/fxfwn/LengkuasSFL)
 
+___
+
 ### Highlights
 - Concise and flexible syntax inspired by Rust, C++, and Swift.
 - Interoperable with C++ and Rust libraries.
