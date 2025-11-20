@@ -6,13 +6,17 @@ ___
 
 # `Stingray`
 `Stingray` is a lightweight, modern general-purpose programming language designed for systems programming, CLI tools, and scripting.
+## :warning: Important note
+As of **November 20th 2025**, `Stingray` is no longer in development and **officially discontinued**. This repository is hereby in a read-only archived state. Reasons for the discontiuation include, but are not limited to:
+- lack of unique features
+- stalled progress
+- focus on development of [LengkuasSFL](https://github.com/fxfwn/LengkuasSFL)
 
 ### Highlights
 - Concise and flexible syntax inspired by Rust, C++, and Swift.
 - Interoperable with C++ and Rust libraries.
 - Multiple memory management options: manual, reference counting, and garbage collection.
 - Support for both Ahead-of-Time (AOT) and interpreted execution.
-
 ### Quick Start
 ```Stingray
 #RUNMODE interpret
